@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Frank Craven",
+	"description": "Node project from FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
